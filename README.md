@@ -1,4 +1,4 @@
-# Teacher-Student-Project-Management (With Project Timeline Diagram)
+# Employee-Project-Management (With Project Timeline Diagram)
 Technology used: Spring, Spring boot, Hibernate, Bootstrap & PostGre.
 
 ## Home Page:
