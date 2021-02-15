@@ -1,5 +1,5 @@
 # Employee-Project-Management (With Project Timeline Diagram)
-Technology used: Spring, Spring boot, Hibernate, Bootstrap & PostGre.
+## Technology used: Spring, Spring boot, Hibernate, Bootstrap & PostGre.
 
 ## Home Page:
 ![Project Snapsort1](https://github.com/foysal-mahmud/Employee-Project-Management/blob/main/screensort/e1.png) 
